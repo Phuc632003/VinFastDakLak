@@ -1,2 +1,1 @@
-# VinFastDakLak
-VinFast Tây Nguyên là đại lý ủy quyền của VinFast, cung cấp các dòng xe ô tô, chương trình khuyến mãi và dịch vụ hậu mãi tại khu vực Tây Nguyên. Trang web cập nhật giá xe, ưu đãi và hỗ trợ khách hàng. 
+VinFast Dak Lak là chi nhánh của VinFast, thương hiệu ô tô Việt Nam nổi bật. Nó cung cấp các dòng xe chất lượng cao, bao gồm xe điện và dịch vụ hậu mãi đáng tin cậy. VinFast Dak Lak cam kết phát triển bền vững và thân thiện với môi trường.
